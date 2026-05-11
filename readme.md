@@ -1,5 +1,6 @@
 # EuroMineNet
 <div align="center">
+
 ### EuroMineNet: A Multitemporal Sentinel-2 Benchmark for Spatiotemporal Mining Footprint Analysis in the European Union (2015–2024)
 [![Paper DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.isprsjprs.2026.04.046-blue)](https://doi.org/10.1016/j.isprsjprs.2026.04.046)
 [![Dataset DOI](https://rodare.hzdr.de/badge/DOI/10.14278/rodare.4656.svg)](https://doi.org/10.14278/rodare.4656)
